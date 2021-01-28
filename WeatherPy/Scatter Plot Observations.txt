@@ -1,0 +1,7 @@
+1.  Regarding the Latitude vs. Max Temperature scatter plot, it is pretty easy to see that it is summer in the southern hemisphere, and winter in the northern hemisphere.
+
+2.  Regarding the Latitude vs. Cloudiness scatter plot, appears that latitude has little bearing on cloudiness.
+
+3.  Regarding the Latitude vs. Wind Speed scatter plot, thought it was interesting that higher wind speeds were further away from the equator.
+
+  
